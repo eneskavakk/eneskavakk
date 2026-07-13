@@ -62,8 +62,8 @@ Full-stack geliştirme, veri bilimi ve siber güvenliği bir araya getirerek fik
 ## 03. GITHUB
 
 <div align="center">
-  <img height="165" src="./assets/github-stats.svg" alt="Enes Kavak GitHub istatistikleri" />
-  <img height="165" src="./assets/top-languages.svg" alt="En çok kullanılan diller" />
+  <img width="49%" src="./assets/github-stats.svg" alt="Enes Kavak GitHub istatistikleri" />
+  <img width="49%" src="./assets/top-languages.svg" alt="En çok kullanılan diller" />
 </div>
 
 ---
