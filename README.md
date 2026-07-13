@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:2563EB,100:06B6D4&height=210&section=header&text=Enes%20Kavak&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Machine%20Learning%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Web%20Development&descAlignY=58&descSize=17" alt="Enes Kavak profile banner" />
 
+<img src="./assets/logo.png" width="190" alt="Enes Kavak logo" />
+
 ### Veriden anlam çıkaran, fikirleri çalışan ürünlere dönüştüren bir geliştirici.
 
 Makine öğrenmesi, veri analizi ve web geliştirme alanlarında projeler üretiyorum.  
