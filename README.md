@@ -62,8 +62,8 @@ Full-stack geliştirme, veri bilimi ve siber güvenliği bir araya getirerek fik
 ## 03. GITHUB
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eneskavakk&show_icons=true&hide_border=false&bg_color=F8F8F5&title_color=F25154&icon_color=F25154&text_color=151515&border_color=E6E6E2&locale=tr&rank_icon=github" alt="Enes Kavak GitHub istatistikleri" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneskavakk&layout=compact&hide_border=false&bg_color=F8F8F5&title_color=F25154&text_color=151515&border_color=E6E6E2&langs_count=8" alt="En çok kullanılan diller" />
+  <img height="165" src="./assets/github-stats.svg" alt="Enes Kavak GitHub istatistikleri" />
+  <img height="165" src="./assets/top-languages.svg" alt="En çok kullanılan diller" />
 </div>
 
 ---
