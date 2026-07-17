@@ -6,8 +6,7 @@
 
 ### SOFTWARE · AI · ML · CYBER SECURITY
 
-Ürün geliştirme, veri analizi ve güvenlik disiplinlerini<br>
-tek bir teknik yaklaşımda birleştiriyorum.
+
 
 <p>
   <a href="https://www.eneskavak.com.tr"><img src="https://img.shields.io/badge/WEBSITE-F25154?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
