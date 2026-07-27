@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="430" height="165" viewBox="0 0 430 165" role="img" aria-labelledby="title desc">
   <title id="title">Enes Kavak GitHub istatistikleri</title>
-  <desc id="desc">17 public repository, 3 follower, 1 star ve 6 ana dil</desc>
+  <desc id="desc">20 public repository, 10 takipçi, 0 yıldız ve 8 programlama dili</desc>
   <rect x="0.5" y="0.5" width="429" height="164" rx="8" fill="#F8F8F5" stroke="#E6E6E2"/>
   <text x="22" y="31" fill="#F25154" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">GITHUB / OVERVIEW</text>
   <line x1="22" y1="45" x2="408" y2="45" stroke="#151515" stroke-opacity="0.12"/>
 
   <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
-    <text x="58" y="93" fill="#151515" font-size="27" font-weight="700">17</text>
-    <text x="58" y="118" fill="#6A6A6A" font-size="10" font-weight="700" letter-spacing="0.8">PUBLIC REPO</text>
+    <text x="58" y="93" fill="#151515" font-size="27" font-weight="700">20</text>
+    <text x="58" y="118" fill="#6A6A6A" font-size="10" font-weight="700" letter-spacing="0.8">REPOSITORIES</text>
 
-    <text x="163" y="93" fill="#151515" font-size="27" font-weight="700">3</text>
-    <text x="163" y="118" fill="#6A6A6A" font-size="10" font-weight="700" letter-spacing="0.8">FOLLOWER</text>
+    <text x="163" y="93" fill="#151515" font-size="27" font-weight="700">10</text>
+    <text x="163" y="118" fill="#6A6A6A" font-size="10" font-weight="700" letter-spacing="0.8">FOLLOWERS</text>
 
-    <text x="268" y="93" fill="#151515" font-size="27" font-weight="700">1</text>
-    <text x="268" y="118" fill="#6A6A6A" font-size="10" font-weight="700" letter-spacing="0.8">STAR</text>
+    <text x="268" y="93" fill="#151515" font-size="27" font-weight="700">0</text>
+    <text x="268" y="118" fill="#6A6A6A" font-size="10" font-weight="700" letter-spacing="0.8">STARS</text>
 
-    <text x="373" y="93" fill="#151515" font-size="27" font-weight="700">6+</text>
-    <text x="373" y="118" fill="#6A6A6A" font-size="10" font-weight="700" letter-spacing="0.8">LANGUAGE</text>
+    <text x="373" y="93" fill="#151515" font-size="27" font-weight="700">8</text>
+    <text x="373" y="118" fill="#6A6A6A" font-size="10" font-weight="700" letter-spacing="0.8">LANGUAGES</text>
   </g>
 
   <circle cx="22" cy="143" r="3" fill="#F25154"/>
