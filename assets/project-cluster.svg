@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="190" viewBox="0 0 580 190" role="img" aria-labelledby="title desc">
+  <title id="title">Country Unsupervised</title>
+  <desc id="desc">Kümeleme algoritmaları ve PCA analizi</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B0C10"/><stop offset="1" stop-color="#0C1218"/></linearGradient>
+    <style>
+      .t{font-family:'Plus Jakarta Sans','Segoe UI',sans-serif}
+      .a{animation:a 5.6s cubic-bezier(.32,.72,0,1) infinite}
+      .b{animation:b 6.4s cubic-bezier(.32,.72,0,1) infinite}
+      .c{animation:c 4.8s cubic-bezier(.32,.72,0,1) infinite}
+      @keyframes a{0%,100%{transform:translate3d(0,0,0)}50%{transform:translate3d(9px,-7px,0)}}
+      @keyframes b{0%,100%{transform:translate3d(0,0,0)}50%{transform:translate3d(-8px,9px,0)}}
+      @keyframes c{0%,100%{transform:translate3d(0,0,0);opacity:.55}50%{transform:translate3d(5px,8px,0);opacity:1}}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="578" height="188" rx="24" fill="#FFFFFF" fill-opacity=".035" stroke="#FFFFFF" stroke-opacity=".11"/>
+  <rect x="8" y="8" width="564" height="174" rx="18" fill="url(#bg)" stroke="#FFFFFF" stroke-opacity=".07"/>
+  <text x="28" y="47" fill="#62D5FF" class="t" font-size="10" font-weight="700" letter-spacing="1.5">CLUSTERING · PCA</text>
+  <text x="28" y="82" fill="#F8F8F5" class="t" font-size="24" font-weight="750">COUNTRY</text>
+  <text x="28" y="106" fill="#F8F8F5" class="t" font-size="24" font-weight="750">UNSUPERVISED</text>
+  <text x="28" y="146" fill="#9299A8" class="t" font-size="11" font-weight="600" letter-spacing="1.1">K-MEANS · DBSCAN · HDBSCAN</text>
+  <g class="a" fill="#62D5FF">
+    <circle cx="382" cy="67" r="7"/><circle cx="405" cy="80" r="5"/><circle cx="391" cy="93" r="4"/><circle cx="419" cy="57" r="4"/>
+  </g>
+  <g class="b" fill="#8B5CF6">
+    <circle cx="470" cy="107" r="7"/><circle cx="491" cy="120" r="4"/><circle cx="510" cy="103" r="6"/><circle cx="485" cy="91" r="4"/>
+  </g>
+  <g class="c" fill="#F25154">
+    <circle cx="377" cy="139" r="5"/><circle cx="399" cy="149" r="4"/><circle cx="418" cy="133" r="6"/>
+  </g>
+  <path d="M343 153L540 153M343 153V43" fill="none" stroke="#FFFFFF" stroke-opacity=".1"/>
+</svg>
